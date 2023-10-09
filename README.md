@@ -7,12 +7,11 @@ This action-adventure RPG survival game combines elements of medieval warfare, c
 - **Game Genre:** Action/Adventure/RPG/Survival
 - **Gameplay:** Survival-based gameplay with gear and loot-based progression.
 - **Character Development:** Build and upgrade your character's abilities to face increasingly difficult challenges.
+- **Procedurally Generated Enviroment** Explore a vast open world filled with secrets, lore, and hidden treasures.
 - **Base Building:** Construct and reinforce structures, recruit NPCs, and defend your base from invaders.
 - **Tower Defense:** Defend against waves of enemies with strategic tower defense elements.
 - **Crafting:** Gather resources, craft items, and weapons to aid your survival.
 - **Combat:** Engage in intense combat against various enemies, both human and alien.
-- **Exploration:** Explore a vast open world filled with secrets, lore, and hidden treasures.
-- **Stealth:** Use sneaking and stealth mechanics to outwit your foes.
 
 
 ## Concept Art
