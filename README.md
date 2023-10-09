@@ -16,7 +16,7 @@ This action-adventure RPG survival game combines elements of medieval warfare, c
 
 ## Concept Art
 ![concept_img_1](https://github.com/seniorbush/Project-Alpha/assets/57599008/74f20be8-7733-4097-a62e-7c8060d60842)
-<img src="[https://your-image-url.type](https://github.com/seniorbush/Project-Alpha/assets/57599008/c4db1954-dd3c-4caf-a6ae-32463756f43f)" width="100" height="100">
+<img src="[https://your-image-url.type](https://github.com/seniorbush/Project-Alpha/assets/57599008/c4db1954-dd3c-4caf-a6ae-32463756f43f)" width="500" height="400">
 
 ## How to Contribute
 We welcome contributions from the community. If you'd like to contribute to the development of the game, please follow these steps:
